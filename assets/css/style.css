@@ -50,26 +50,26 @@ header nav{
     
 }
 #porsche0{
-    background-image: url(/assets/img/tim-meyer-timm-jpeg-mApCPJrEVxo-unsplash.jpg) ;
+    background-image: url(../img/tim-meyer-timm-jpeg-mApCPJrEVxo-unsplash.jpg) ;
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
   
 }
 #porsche1{
-    background-image: url(/assets/img/eric-saunders-crUGdn1j-RE-unsplash.jpg);
+    background-image: url(../img/eric-saunders-crUGdn1j-RE-unsplash.jpg);
     background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
 }
 #porsche2{
-    background-image: url(/assets/img/steven-binotto-F1fBfv3lT6I-unsplash.jpg);
+    background-image: url(../img/steven-binotto-F1fBfv3lT6I-unsplash.jpg);
     background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
 }
 #porsche3{
-    background-image: url(/assets/img/alwin-kroon-7svC81Zf7t8-unsplash.jpg);
+    background-image: url(../img/alwin-kroon-7svC81Zf7t8-unsplash.jpg);
     background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
