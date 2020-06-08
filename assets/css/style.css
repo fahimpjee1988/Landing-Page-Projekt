@@ -11,10 +11,11 @@ font-family: 'Nanum Gothic', sans-serif;
 color: white;
 font-size: 20px;
 
+
  }
 
 nav ul li{
-    display: inline-table;
+    display: inline;
     list-style: none;
     margin: 5%;
     font-size: 20px;
@@ -24,6 +25,15 @@ nav ul li{
 }
 a:visited{
 color: white;
+
+}
+a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+a:hover{
+    text-decoration: underline;
 }
 nav ul{
     text-align: center;
@@ -33,6 +43,10 @@ nav ul{
 }
 header nav{
     position:fixed;
+    width:98%;
+    
+    background-color:  #2C3E40 ;
+    
     
 }
 #porsche0{
@@ -40,7 +54,7 @@ header nav{
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
-  margin:0;
+  
 }
 #porsche1{
     background-image: url(/assets/img/eric-saunders-crUGdn1j-RE-unsplash.jpg);
@@ -70,9 +84,62 @@ header nav{
    width:400px;
 }
 .p{
-    font-size: 20px;
+    font-size: 15px;
     
     margin: 0 auto;
     padding-top:10%;
     width:400px;
+}
+.h2black{
+    font-size: 40px;
+    
+    margin: 0 auto;
+    padding-top:15%;
+    width:400px;
+    color: black;
+    opacity: 0.8;
+}
+.pblack{
+    font-size: 15px;
+    
+    margin: 0 auto;
+    padding-top:10%;
+    width:400px;
+    color:black;
+    background-color: white;
+    opacity: 0.8;
+}
+
+.but{
+   padding-left:40%;
+
+}
+.but2{
+    padding:10px;
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border-radius: 7px;;
+}
+#footer{
+    
+    background-color: #0D0706;
+    width: 450px;
+    margin: 5%;
+}
+
+.foot2{
+   
+    list-style: none;
+    margin: 10%;
+}
+.foot{
+    margin: 7,5%;
+}
+#foota{
+    padding-left: 25%;
+}
+.foot2 a:hover{
+text-decoration: underline;
 }
