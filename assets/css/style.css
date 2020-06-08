@@ -1,0 +1,78 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Nanum+Gothic&display=swap');
+
+/* assets:
+colors:#2C3E40 ,#F27405,#8C3503,#592202,#0D0706 */
+ 
+html{
+    scroll-behavior: smooth;
+    font-family: 'Lora', serif;
+font-family: 'Nanum Gothic', sans-serif;
+color: white;
+font-size: 20px;
+
+ }
+
+nav ul li{
+    display: inline-table;
+    list-style: none;
+    margin: 5%;
+    font-size: 20px;
+    color: white;
+    
+      
+}
+a:visited{
+color: white;
+}
+nav ul{
+    text-align: center;
+  
+   
+    
+}
+header nav{
+    position:fixed;
+    
+}
+#porsche0{
+    background-image: url(/assets/img/tim-meyer-timm-jpeg-mApCPJrEVxo-unsplash.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin:0;
+}
+#porsche1{
+    background-image: url(/assets/img/eric-saunders-crUGdn1j-RE-unsplash.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#porsche2{
+    background-image: url(/assets/img/steven-binotto-F1fBfv3lT6I-unsplash.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#porsche3{
+    background-image: url(/assets/img/alwin-kroon-7svC81Zf7t8-unsplash.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+
+.h2{
+    font-size: 40px;
+    
+   margin: 0 auto;
+   padding-top:15%;
+   width:400px;
+}
+.p{
+    font-size: 20px;
+    
+    margin: 0 auto;
+    padding-top:10%;
+    width:400px;
+}
